@@ -1,2 +1,2 @@
 # sample-app
-git練習
+git練習その2
